@@ -4,7 +4,8 @@ import '@angular/platform-browser-dynamic';
 import '@angular/core';
 import '@angular/common';
 import '@angular/http';
-import '@angular/router-deprecated';
+import '@angular/forms';
+import '@angular/router';
 // RxJS
 import 'rxjs';
 // You can import js, ts, css, sass, ...
