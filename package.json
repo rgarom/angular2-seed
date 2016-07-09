@@ -2,6 +2,7 @@
   "name": "angular2-seed",
   "version": "0.1.0",
   "description": "Project scaffolding for Angular 2.x projects",
+  "license": "MIT",
   "scripts": {
     "start": "webpack-dev-server --inline --progress --port 8080",
     "test": "karma start",
